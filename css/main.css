@@ -1,0 +1,15 @@
+.btn-right {
+    float: right;
+    margin-left: 10px;
+}
+
+.tab-pane {
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    padding: 50px;
+}
+
+.details-form {
+    width: 550px;
+}
